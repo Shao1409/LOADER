@@ -7,14 +7,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "client", "client\client.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "server", "server\server.vcxproj", "{ECBB8A7F-67A6-44D7-BBE5-EFC567014374}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OverflowDriver", "..\OverflowR6V2-master\OverflowDriver\OverflowDriver.vcxproj", "{9384229F-9D7B-45BB-B8A1-0DD9924D42E5}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OverflowR6V2", "..\OverflowR6V2-master3\OverflowR6V2\OverflowR6V2.vcxproj", "{455115C2-A712-4B44-B26B-4AFA4B44B476}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "API Hooking", "..\API Hooking\SOInternal.vcxproj", "{8D2EDD66-577E-4FDD-A3C7-DB4DCD305EAF}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cppinjector", "..\cppinjector-master\cppinjector\cppinjector.vcxproj", "{7F9FA4EC-2273-488B-AE94-52E731EE7857}"
-EndProject
+
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
