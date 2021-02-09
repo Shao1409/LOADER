@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\shared\crypto\crypto.cpp">
+      <Filter>Loader And Main\crypto</Filter>
+    </ClCompile>
+    <ClCompile Include="format.cc">
+      <Filter>Loader And Main\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="os.cc">
+      <Filter>Loader And Main\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="hwid.cpp">
+      <Filter>Loader And Main\managers</Filter>
+    </ClCompile>
+    <ClCompile Include="client.cpp">
+      <Filter>Loader And Main\main</Filter>
+    </ClCompile>
+    <ClCompile Include="enc.cpp">
+      <Filter>Loader And Main\enc</Filter>
+    </ClCompile>
+    <ClCompile Include="random.cpp">
+      <Filter>Loader And Main\enc</Filter>
+    </ClCompile>
+    <ClCompile Include="program.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Loader And Main">
+      <UniqueIdentifier>{b4414043-7b10-421e-996c-2157fe52012e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Loader And Main\crypto">
+      <UniqueIdentifier>{8c062d4f-2c67-478d-b3f2-0c7f911d2376}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Loader And Main\Source Files">
+      <UniqueIdentifier>{48de4428-165e-49e6-b629-0c30f80afedc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Loader And Main\managers">
+      <UniqueIdentifier>{1b8a36db-906b-4dab-b3e0-4871114ce8c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Loader And Main\main">
+      <UniqueIdentifier>{4ed913e3-08bb-4a81-bff8-54c474abb7a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Loader And Main\Header Files">
+      <UniqueIdentifier>{6adc9580-03b8-4b77-9d05-8b060687a96f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Loader And Main\enc">
+      <UniqueIdentifier>{6abd97da-23aa-438f-a18e-40571df939d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AntiReverse">
+      <UniqueIdentifier>{3983c986-8fd3-473b-bbe1-1a4b6b37207e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\shared\crypto\crypto.h">
+      <Filter>Loader And Main\crypto</Filter>
+    </ClInclude>
+    <ClInclude Include="includes.h">
+      <Filter>Loader And Main\main</Filter>
+    </ClInclude>
+    <ClInclude Include="chrono.h">
+      <Filter>Loader And Main\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="color.h">
+      <Filter>Loader And Main\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="compile.h">
+      <Filter>Loader And Main\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="core.h">
+      <Filter>Loader And Main\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="format-inl.h">
+      <Filter>Loader And Main\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="format.h">
+      <Filter>Loader And Main\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="locale.h">
+      <Filter>Loader And Main\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="macros.hpp">
+      <Filter>Loader And Main\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="os.h">
+      <Filter>Loader And Main\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ostream.h">
+      <Filter>Loader And Main\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="posix.h">
+      <Filter>Loader And Main\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="printa.hpp">
+      <Filter>Loader And Main\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="printf.h">
+      <Filter>Loader And Main\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ranges.h">
+      <Filter>Loader And Main\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="singleton.hpp">
+      <Filter>Loader And Main\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="xor.h">
+      <Filter>Loader And Main\enc</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
