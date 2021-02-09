@@ -1,4 +1,6 @@
 
+
+
 ### features
 - dynamically encrypted client-server communication over TCP sockets
 - loader version check
@@ -8,6 +10,7 @@
 - Nice Design
 
 ### todo
+- Delete The useless files(doesnt work for me)
 - safer pid transfer
 - security thread
 - secured dll transfer
