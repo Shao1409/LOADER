@@ -1,4 +1,5 @@
-
+### compile
+- simply compile the client and the server project. Try to ignore the useless stuff
 
 
 ### features
