@@ -18,7 +18,7 @@
 - more license management features
 - add option to add time to all licenses at once
 - better server UI
-- type help in the server (for the idiots)
+- type help in the server (for the idiots/pasters)
 
 ### setup
 1. extract shared.rar
