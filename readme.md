@@ -29,8 +29,7 @@
 This was created as a fun project when I was bored over christmas, some code may be trash, feel free to change as you want. As mentioned in the code, only reason for not using an actual database is that not everyone knows how to work with sql.. Will add it later anyways.
 
 ### credits
-- https://github.com/rikodot/p2c-loader 
 - https://github.com/ex-ref/printa
 
 ### updates
-- 
+- Next patch: fix anti reversing methods
